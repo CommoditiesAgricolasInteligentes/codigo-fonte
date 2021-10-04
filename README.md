@@ -7,7 +7,7 @@
 ##### Sumário Executivo:
 > https://docs.google.com/document/d/1rCtNIWyFocvVrJggwHZUZ7LpCeNDKqctraIRX51lXS0/edit
 
-##### Plataforma CommoditiesAI:
+##### MVP Plataforma CommoditiesAI:
 
 
 ##### Página de apresentação:
