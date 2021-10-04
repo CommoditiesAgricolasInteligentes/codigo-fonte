@@ -8,7 +8,7 @@
 > https://docs.google.com/document/d/1rCtNIWyFocvVrJggwHZUZ7LpCeNDKqctraIRX51lXS0/edit
 
 ##### MVP Plataforma CommoditiesAI:
-
+> https://commodities-ai.herokuapp.com/
 
 ##### Página de apresentação:
 > https://commoditiesagricolasinteligentes.github.io/index/
