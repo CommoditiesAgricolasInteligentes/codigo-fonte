@@ -16,6 +16,9 @@
 ##### Data Lake:
 > https://drive.google.com/drive/u/3/folders/1Pr6GvCEfMZiaSBlgCFxkC_eO-l280bD4
 
+##### Código Plataforma CommodititesAI
+> https://drive.google.com/drive/u/3/folders/1BLRdzXpx27AMbx2XPlczUU64wwsE8keI
+
 ##### Processo de escolha do Modelo de Machine Learning através dos Notebooks:
 > https://drive.google.com/drive/u/3/folders/1ZfB7BM5_Fca1HVO2nANNpdOFrhIeZdcw
 
@@ -36,3 +39,5 @@
 
 ##### Processo de análise da Temperatura e Precipitação:
 > https://drive.google.com/drive/u/3/folders/1uMQJQSN8I4kCRWnKmeE0Sg01zo2iD4bl
+
+
