@@ -16,6 +16,9 @@
 ##### Data Lake:
 > https://drive.google.com/drive/u/3/folders/1Pr6GvCEfMZiaSBlgCFxkC_eO-l280bD4
 
+##### Roadmap e Plano de Ação:
+> https://docs.google.com/document/d/1caUEqgvoz08qdRK5OJTCj-xsFkIBDMYP/edit
+
 ##### Código Plataforma CommodititesAI
 > https://drive.google.com/drive/u/3/folders/1BLRdzXpx27AMbx2XPlczUU64wwsE8keI
 
